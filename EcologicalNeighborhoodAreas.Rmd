@@ -1,0 +1,61 @@
+# Embracing, rather than iterating out, spatial heterogeneity in forest structure to better quantify contemporary genetic connectivity.
+
+## Rodney J. Dyer
+
+
+
+## Abstract
+
+
+## Introduction
+
+&Para;
+
+
+In this paper, I introdcuce the notion of pollination neighborhood area based upon contemporary genetic connectivity.  The theory  
+
+## Methods
+
+
+### Resistance Connectivity
+
+
+
+### Genetic Covariance Isoclines
+
+
+
+### *In silico* simulations
+
+
+
+### Example from flowering dogwood, *Cornus florida*
+
+
+## Results
+
+
+
+## Discussion
+
+
+
+## Acknowledgements
+
+
+
+## References
+
+
+
+
+## Tables
+
+
+
+## Figures
+
+
+
+
+
